@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>Calculator.Lib</id>
+        <id>$id$</id>
         <version>$version$</version>
-        <title>Calculator.Lib</title>
-        <authors>S�ren Lund</authors>
-        <owners>S�ren Lund</owners>
+        <title>$title$</title>
+        <authors>$authors$</authors>
+        <owners>$owners$</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Calculator Functions</description>
-        <copyright>Copyright �  2016</copyright>
+        <description>$description$</description>
+        <copyright>Copyright 2016</copyright>
         <serviceable>false</serviceable>
         <dependencies>
             <dependency id="NuGet.Core" version="2.11.1" />
