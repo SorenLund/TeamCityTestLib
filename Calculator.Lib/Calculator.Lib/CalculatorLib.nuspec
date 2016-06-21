@@ -9,7 +9,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>$description$</description>
         <copyright>Copyright 2016</copyright>
-        <serviceable>false</serviceable>
+        <!-- <serviceable>false</serviceable> -->
         <dependencies>
             <dependency id="NuGet.Core" version="2.11.1" />
         </dependencies>
