@@ -15,9 +15,9 @@
         </dependencies>
     </metadata>
 	<files>
-		<file src="bin\Debug\*.dll" target="Debug\lib\net452" /> 
-		<file src="bin\Debug\*.pdb" target="Debug\lib\net452" /> 
-		<file src="bin\Release\*.dll" target="Release\lib\net452" /> 
+		<file src="bin\Debug\*.dll" target="lib\net452\Debug" /> 
+		<file src="bin\Debug\*.pdb" target="lib\net452\Debug" /> 
+		<file src="bin\Release\*.dll" target="lib\net452" /> 
 		<file src="**\*.cs" target="src" />
 	</files>
 </package>
